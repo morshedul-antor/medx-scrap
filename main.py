@@ -7,7 +7,7 @@ i = 1
 
 def app():
     page_number = 1
-    last_page = 707
+    last_page = 758
 
     while page_number <= last_page:
         single_page = url+'brands?page='+str(page_number)
